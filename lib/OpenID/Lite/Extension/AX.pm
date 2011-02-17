@@ -16,7 +16,7 @@ use constant AX_NS_ALIAS     => q{ax};
 use constant AX_TYPE_NS_OF => {
     country   => q{http://axschema.org/contact/country/home},
     email     => q{http://axschema.org/contact/email},
-    firstname => q{http://axschema.org/nameperson/first},
+    firstname => q{http://axschema.org/namePerson/first},
     language  => q{http://axschema.org/pref/language},
     lastname  => q{http://axschema.org/namePerson/last},
 };
